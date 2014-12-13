@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractProvider.php" server="174.127.89.46" local="130618710316511728" remote="130609076400000000" Dst="0" />
+<file name="Eventbrite.php" server="174.127.89.46" local="130618710318561845" remote="130609076400000000" Dst="0" />
+<file name="Facebook.php" server="174.127.89.46" local="130618710336522873" remote="130609076400000000" Dst="0" />
+<file name="Github.php" server="174.127.89.46" local="130618710340543102" remote="130609076400000000" Dst="0" />
+<file name="Google.php" server="174.127.89.46" local="130618710340543102" remote="130609076400000000" Dst="0" />
+<file name="Instagram.php" server="174.127.89.46" local="130618710356544018" remote="130609076400000000" Dst="0" />
+<file name="LinkedIn.php" server="174.127.89.46" local="130618710360564248" remote="130609076400000000" Dst="0" />
+<file name="Local.php" server="174.127.89.46" local="130618710360564248" remote="130614841200000000" Dst="0" />
+<file name="Microsoft.php" server="174.127.89.46" local="130618710382725515" remote="130609076400000000" Dst="0" />
+<file name="ProviderInterface.php" server="174.127.89.46" local="130618710387455786" remote="130609076400000000" Dst="0" />
+<file name="Runkeeper.php" server="174.127.89.46" local="130618710387455786" remote="130618666800000000" Dst="0" />
+<file name="Vkontakte.php" server="174.127.89.46" local="130618710405216802" remote="130609076400000000" Dst="0" />
+<file name="Mapmyapi.php" server="174.127.89.46" local="130621433847694481" remote="130621212600000000" Dst="0" />
+</dwsync>
