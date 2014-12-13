@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassDefinitionClosingBraceSpaceSniff.php" server="174.127.89.46" local="130620531089503852" remote="130613596200000000" Dst="0" />
+<file name="ClassDefinitionNameSpacingSniff.php" server="174.127.89.46" local="130620531095634203" remote="130613596200000000" Dst="0" />
+<file name="ClassDefinitionOpeningBraceSpaceSniff.php" server="174.127.89.46" local="130620531097594315" remote="130613596200000000" Dst="0" />
+<file name="ColonSpacingSniff.php" server="174.127.89.46" local="130620531111805128" remote="130613596200000000" Dst="0" />
+<file name="ColourDefinitionSniff.php" server="174.127.89.46" local="130620531115855359" remote="130613596200000000" Dst="0" />
+<file name="DisallowMultipleStyleDefinitionsSniff.php" server="174.127.89.46" local="130620531115855359" remote="130613596200000000" Dst="0" />
+<file name="DuplicateClassDefinitionSniff.php" server="174.127.89.46" local="130620531132076287" remote="130613596200000000" Dst="0" />
+<file name="DuplicateStyleDefinitionSniff.php" server="174.127.89.46" local="130620531135966510" remote="130613596200000000" Dst="0" />
+<file name="EmptyClassDefinitionSniff.php" server="174.127.89.46" local="130620531135966510" remote="130613596200000000" Dst="0" />
+<file name="EmptyStyleDefinitionSniff.php" server="174.127.89.46" local="130620531152267442" remote="130613596200000000" Dst="0" />
+<file name="ForbiddenStylesSniff.php" server="174.127.89.46" local="130620531156167665" remote="130613596200000000" Dst="0" />
+<file name="IndentationSniff.php" server="174.127.89.46" local="130620531156167665" remote="130613596200000000" Dst="0" />
+<file name="LowercaseStyleDefinitionSniff.php" server="174.127.89.46" local="130620531172368592" remote="130613596200000000" Dst="0" />
+<file name="MissingColonSniff.php" server="174.127.89.46" local="130620531176398822" remote="130613596200000000" Dst="0" />
+<file name="NamedColoursSniff.php" server="174.127.89.46" local="130620531176398822" remote="130613596200000000" Dst="0" />
+<file name="OpacitySniff.php" server="174.127.89.46" local="130620531192609749" remote="130613596200000000" Dst="0" />
+<file name="SemicolonSpacingSniff.php" server="174.127.89.46" local="130620531196599978" remote="130613596200000000" Dst="0" />
+<file name="ShorthandSizeSniff.php" server="174.127.89.46" local="130620531196599978" remote="130613596200000000" Dst="0" />
+</dwsync>

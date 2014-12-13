@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CharacterBeforePHPOpeningTagSniff.php" server="174.127.89.46" local="130620530207653413" remote="130613596200000000" Dst="0" />
+<file name="ClosingPHPTagSniff.php" server="174.127.89.46" local="130620530223904343" remote="130613596200000000" Dst="0" />
+<file name="DeprecatedFunctionsSniff.php" server="174.127.89.46" local="130620530227984576" remote="130613596200000000" Dst="0" />
+<file name="DisallowShortOpenTagSniff.php" server="174.127.89.46" local="130620530227984576" remote="130613596200000000" Dst="0" />
+<file name="ForbiddenFunctionsSniff.php" server="174.127.89.46" local="130620530246125614" remote="130613596200000000" Dst="0" />
+<file name="LowerCaseConstantSniff.php" server="174.127.89.46" local="130620530246125614" remote="130613596200000000" Dst="0" />
+<file name="LowerCaseKeywordSniff.php" server="174.127.89.46" local="130620530248165730" remote="130613596200000000" Dst="0" />
+<file name="NoSilencedErrorsSniff.php" server="174.127.89.46" local="130620530266896802" remote="130613596200000000" Dst="0" />
+<file name="SAPIUsageSniff.php" server="174.127.89.46" local="130620530266896802" remote="130613596200000000" Dst="0" />
+<file name="SyntaxSniff.php" server="174.127.89.46" local="130620530268946919" remote="130613596200000000" Dst="0" />
+<file name="UpperCaseConstantSniff.php" server="174.127.89.46" local="130620530285127844" remote="130613596200000000" Dst="0" />
+</dwsync>

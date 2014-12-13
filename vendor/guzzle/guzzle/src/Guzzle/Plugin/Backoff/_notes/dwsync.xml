@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBackoffStrategy.php" server="174.127.89.46" local="130620520469736436" remote="130613596200000000" Dst="0" />
+<file name="AbstractErrorCodeBackoffStrategy.php" server="174.127.89.46" local="130620520473806669" remote="130613596200000000" Dst="0" />
+<file name="BackoffLogger.php" server="174.127.89.46" local="130620520473816670" remote="130613596200000000" Dst="0" />
+<file name="BackoffPlugin.php" server="174.127.89.46" local="130620520490047598" remote="130613596200000000" Dst="0" />
+<file name="BackoffStrategyInterface.php" server="174.127.89.46" local="130620520494127831" remote="130613596200000000" Dst="0" />
+<file name="CallbackBackoffStrategy.php" server="174.127.89.46" local="130620520494127831" remote="130613596200000000" Dst="0" />
+<file name="ConstantBackoffStrategy.php" server="174.127.89.46" local="130620520510418763" remote="130613596200000000" Dst="0" />
+<file name="CurlBackoffStrategy.php" server="174.127.89.46" local="130620520514508997" remote="130613596200000000" Dst="0" />
+<file name="ExponentialBackoffStrategy.php" server="174.127.89.46" local="130620520514508997" remote="130613596200000000" Dst="0" />
+<file name="HttpBackoffStrategy.php" server="174.127.89.46" local="130620520531969996" remote="130613596200000000" Dst="0" />
+<file name="LinearBackoffStrategy.php" server="174.127.89.46" local="130620520536010227" remote="130613596200000000" Dst="0" />
+<file name="ReasonPhraseBackoffStrategy.php" server="174.127.89.46" local="130620520536020227" remote="130613596200000000" Dst="0" />
+<file name="TruncatedBackoffStrategy.php" server="174.127.89.46" local="130620520554401279" remote="130613596200000000" Dst="0" />
+<file name="composer.json" server="174.127.89.46" local="130620520558361505" remote="130613596200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdhocTest.php" server="174.127.89.46" local="130620523269536576" remote="130613596200000000" Dst="0" />
+<file name="DemeterChainTest.php" server="174.127.89.46" local="130620523285737502" remote="130613596200000000" Dst="0" />
+<file name="ContainerTest.php" server="174.127.89.46" local="130620523287737617" remote="130613596200000000" Dst="0" />
+<file name="ExpectationTest.php" server="174.127.89.46" local="130620523301828423" remote="130613596200000000" Dst="0" />
+<file name="HamcrestExpectationTest.php" server="174.127.89.46" local="130620523339370570" remote="130613596200000000" Dst="0" />
+<file name="LoaderTest.php" server="174.127.89.46" local="130620523359541724" remote="130613596200000000" Dst="0" />
+<file name="MockClassWithFinalWakeupTest.php" server="174.127.89.46" local="130620523373652531" remote="130613596200000000" Dst="0" />
+<file name="MockClassWithUnknownTypeHintTest.php" server="174.127.89.46" local="130620523377692762" remote="130613596200000000" Dst="0" />
+<file name="MockTest.php" server="174.127.89.46" local="130620523377702762" remote="130613596200000000" Dst="0" />
+<file name="MockeryCanMockMultipleInterfacesWhichOverlapTest.php" server="174.127.89.46" local="130620523393923690" remote="130613596200000000" Dst="0" />
+<file name="MockingProtectedMethodsTest.php" server="174.127.89.46" local="130620523397943920" remote="130613596200000000" Dst="0" />
+<file name="NamedMockTest.php" server="174.127.89.46" local="130620523397943920" remote="130613596200000000" Dst="0" />
+<file name="RecorderTest.php" server="174.127.89.46" local="130620523416114959" remote="130613596200000000" Dst="0" />
+<file name="WithFormatterExpectationTest.php" server="174.127.89.46" local="130620523418135075" remote="130613596200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMockTestClass.php" server="174.127.89.46" local="130620528530587490" remote="130613596200000000" Dst="0" />
+<file name="AbstractTrait.php" server="174.127.89.46" local="130620528547388451" remote="130613596200000000" Dst="0" />
+<file name="AnInterface.php" server="174.127.89.46" local="130620528551408681" remote="130613596200000000" Dst="0" />
+<file name="AnotherInterface.php" server="174.127.89.46" local="130620528551408681" remote="130613596200000000" Dst="0" />
+<file name="Bar.php" server="174.127.89.46" local="130620528567629609" remote="130613596200000000" Dst="0" />
+<file name="ClassThatImplementsSerializable.php" server="174.127.89.46" local="130620528571579835" remote="130613596200000000" Dst="0" />
+<file name="ClassWithStaticMethod.php" server="174.127.89.46" local="130620528571579835" remote="130613596200000000" Dst="0" />
+<file name="Foo.php" server="174.127.89.46" local="130620528591830993" remote="130613596200000000" Dst="0" />
+<file name="FunctionCallback.php" server="174.127.89.46" local="130620528591840994" remote="130613596200000000" Dst="0" />
+<file name="GoogleSearch.wsdl" server="174.127.89.46" local="130620528593881111" remote="130613596200000000" Dst="0" />
+<file name="InterfaceWithStaticMethod.php" server="174.127.89.46" local="130620528612332166" remote="130613596200000000" Dst="0" />
+<file name="MethodCallback.php" server="174.127.89.46" local="130620528616282392" remote="130613596200000000" Dst="0" />
+<file name="MethodCallbackByReference.php" server="174.127.89.46" local="130620528616282392" remote="130613596200000000" Dst="0" />
+<file name="Mockable.php" server="174.127.89.46" local="130620528632583324" remote="130613596200000000" Dst="0" />
+<file name="PartialMockTestClass.php" server="174.127.89.46" local="130620528637943631" remote="130613596200000000" Dst="0" />
+<file name="SingletonClass.php" server="174.127.89.46" local="130620528637943631" remote="130613596200000000" Dst="0" />
+<file name="SomeClass.php" server="174.127.89.46" local="130620528654214562" remote="130613596200000000" Dst="0" />
+<file name="StaticMockTestClass.php" server="174.127.89.46" local="130620528658164787" remote="130613596200000000" Dst="0" />
+<file name="TraversableMockTestInterface.php" server="174.127.89.46" local="130620528658164787" remote="130613596200000000" Dst="0" />
+</dwsync>

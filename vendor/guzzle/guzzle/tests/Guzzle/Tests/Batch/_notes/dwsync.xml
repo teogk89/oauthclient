@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBatchDecoratorTest.php" server="174.127.89.46" local="130620521366977755" remote="130613596200000000" Dst="0" />
+<file name="BatchBuilderTest.php" server="174.127.89.46" local="130620521370937982" remote="130613596200000000" Dst="0" />
+<file name="BatchClosureDivisorTest.php" server="174.127.89.46" local="130620521370937982" remote="130613596200000000" Dst="0" />
+<file name="BatchClosureTransferTest.php" server="174.127.89.46" local="130620521394309319" remote="130613596200000000" Dst="0" />
+<file name="BatchCommandTransferTest.php" server="174.127.89.46" local="130620521398359550" remote="130613596200000000" Dst="0" />
+<file name="BatchRequestTransferTest.php" server="174.127.89.46" local="130620521398369551" remote="130613596200000000" Dst="0" />
+<file name="BatchSizeDivisorTest.php" server="174.127.89.46" local="130620521415220515" remote="130613596200000000" Dst="0" />
+<file name="BatchTest.php" server="174.127.89.46" local="130620521420460814" remote="130613596200000000" Dst="0" />
+<file name="ExceptionBufferingBatchTest.php" server="174.127.89.46" local="130620521420460814" remote="130613596200000000" Dst="0" />
+<file name="FlushingBatchTest.php" server="174.127.89.46" local="130620521439941929" remote="130613596200000000" Dst="0" />
+<file name="NotifyingBatchTest.php" server="174.127.89.46" local="130620521439941929" remote="130613596200000000" Dst="0" />
+<file name="HistoryBatchTest.php" server="174.127.89.46" local="130620521442002047" remote="130613596200000000" Dst="0" />
+</dwsync>

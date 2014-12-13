@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EmptyStatementSniff.php" server="174.127.89.46" local="130620529967029650" remote="130613596200000000" Dst="0" />
+<file name="ForLoopShouldBeWhileLoopSniff.php" server="174.127.89.46" local="130620529985420702" remote="130613596200000000" Dst="0" />
+<file name="ForLoopWithTestFunctionCallSniff.php" server="174.127.89.46" local="130620529989420931" remote="130613596200000000" Dst="0" />
+<file name="JumbledIncrementerSniff.php" server="174.127.89.46" local="130620529989420931" remote="130613596200000000" Dst="0" />
+<file name="UnconditionalIfStatementSniff.php" server="174.127.89.46" local="130620530005671860" remote="130613596200000000" Dst="0" />
+<file name="UnnecessaryFinalModifierSniff.php" server="174.127.89.46" local="130620530007651974" remote="130613596200000000" Dst="0" />
+<file name="UnusedFunctionParameterSniff.php" server="174.127.89.46" local="130620530009692090" remote="130613596200000000" Dst="0" />
+<file name="UselessOverridingMethodSniff.php" server="174.127.89.46" local="130620530023942906" remote="130613596200000000" Dst="0" />
+</dwsync>

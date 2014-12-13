@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogAdapter.php" server="174.127.89.46" local="130620520276635391" remote="130613596200000000" Dst="0" />
+<file name="ArrayLogAdapter.php" server="174.127.89.46" local="130620520296836547" remote="130613596200000000" Dst="0" />
+<file name="ClosureLogAdapter.php" server="174.127.89.46" local="130620520300826775" remote="130613596200000000" Dst="0" />
+<file name="LogAdapterInterface.php" server="174.127.89.46" local="130620520300826775" remote="130613596200000000" Dst="0" />
+<file name="MessageFormatter.php" server="174.127.89.46" local="130620520318997814" remote="130613596200000000" Dst="0" />
+<file name="MonologLogAdapter.php" server="174.127.89.46" local="130620520318997814" remote="130613596200000000" Dst="0" />
+<file name="PsrLogAdapter.php" server="174.127.89.46" local="130620520320997929" remote="130613596200000000" Dst="0" />
+<file name="Zf1LogAdapter.php" server="174.127.89.46" local="130620520339358979" remote="130613596200000000" Dst="0" />
+<file name="Zf2LogAdapter.php" server="174.127.89.46" local="130620520343319206" remote="130613596200000000" Dst="0" />
+<file name="composer.json" server="174.127.89.46" local="130620520343319206" remote="130613596200000000" Dst="0" />
+</dwsync>

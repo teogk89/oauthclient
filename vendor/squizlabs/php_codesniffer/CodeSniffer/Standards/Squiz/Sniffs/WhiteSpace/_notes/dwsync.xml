@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CastSpacingSniff.php" server="174.127.89.46" local="130620531650215923" remote="130613596200000000" Dst="0" />
+<file name="ControlStructureSpacingSniff.php" server="174.127.89.46" local="130620531650215923" remote="130613596200000000" Dst="0" />
+<file name="FunctionClosingBraceSpaceSniff.php" server="174.127.89.46" local="130620531667006883" remote="130613596200000000" Dst="0" />
+<file name="FunctionOpeningBraceSpaceSniff.php" server="174.127.89.46" local="130620531669057001" remote="130613596200000000" Dst="0" />
+<file name="FunctionSpacingSniff.php" server="174.127.89.46" local="130620531671147120" remote="130613596200000000" Dst="0" />
+<file name="LanguageConstructSpacingSniff.php" server="174.127.89.46" local="130620531685417936" remote="130613596200000000" Dst="0" />
+<file name="LogicalOperatorSpacingSniff.php" server="174.127.89.46" local="130620531689518171" remote="130613596200000000" Dst="0" />
+<file name="MemberVarSpacingSniff.php" server="174.127.89.46" local="130620531689518171" remote="130613596200000000" Dst="0" />
+<file name="ObjectOperatorSpacingSniff.php" server="174.127.89.46" local="130620531706679153" remote="130613596200000000" Dst="0" />
+<file name="OperatorSpacingSniff.php" server="174.127.89.46" local="130620531710679381" remote="130613596200000000" Dst="0" />
+<file name="PropertyLabelSpacingSniff.php" server="174.127.89.46" local="130620531710679381" remote="130613596200000000" Dst="0" />
+<file name="ScopeClosingBraceSniff.php" server="174.127.89.46" local="130620531726970313" remote="130613596200000000" Dst="0" />
+<file name="ScopeKeywordSpacingSniff.php" server="174.127.89.46" local="130620531730870536" remote="130613596200000000" Dst="0" />
+<file name="SemicolonSpacingSniff.php" server="174.127.89.46" local="130620531730870536" remote="130613596200000000" Dst="0" />
+<file name="SuperfluousWhitespaceSniff.php" server="174.127.89.46" local="130620531753111808" remote="130613596200000000" Dst="0" />
+</dwsync>

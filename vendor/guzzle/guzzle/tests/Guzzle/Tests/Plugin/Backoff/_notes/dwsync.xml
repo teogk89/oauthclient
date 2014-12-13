@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBackoffStrategyTest.php" server="174.127.89.46" local="130620521961951786" remote="130613596200000000" Dst="0" />
+<file name="BackoffLoggerTest.php" server="174.127.89.46" local="130620521961951786" remote="130613596200000000" Dst="0" />
+<file name="BackoffPluginTest.php" server="174.127.89.46" local="130620521980502847" remote="130613596200000000" Dst="0" />
+<file name="CallbackBackoffStrategyTest.php" server="174.127.89.46" local="130620521980502847" remote="130613596200000000" Dst="0" />
+<file name="ConstantBackoffStrategyTest.php" server="174.127.89.46" local="130620521982462959" remote="130613596200000000" Dst="0" />
+<file name="CurlBackoffStrategyTest.php" server="174.127.89.46" local="130620522002674115" remote="130613596200000000" Dst="0" />
+<file name="ExponentialBackoffStrategyTest.php" server="174.127.89.46" local="130620522002674115" remote="130613596200000000" Dst="0" />
+<file name="HttpBackoffStrategyTest.php" server="174.127.89.46" local="130620522005764292" remote="130613596200000000" Dst="0" />
+<file name="LinearBackoffStrategyTest.php" server="174.127.89.46" local="130620522024295352" remote="130613596200000000" Dst="0" />
+<file name="TruncatedBackoffStrategyTest.php" server="174.127.89.46" local="130620522024305352" remote="130613596200000000" Dst="0" />
+<file name="ReasonPhraseBackoffStrategyTest.php" server="174.127.89.46" local="130620522026315467" remote="130613596200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="And.php" server="174.127.89.46" local="130620524999125502" remote="130613596200000000" Dst="0" />
+<file name="ArrayHasKey.php" server="174.127.89.46" local="130620525013376318" remote="130613596200000000" Dst="0" />
+<file name="Attribute.php" server="174.127.89.46" local="130620525017376546" remote="130613596200000000" Dst="0" />
+<file name="Callback.php" server="174.127.89.46" local="130620525017376546" remote="130613596200000000" Dst="0" />
+<file name="ClassHasAttribute.php" server="174.127.89.46" local="130620525036437637" remote="130613596200000000" Dst="0" />
+<file name="ClassHasStaticAttribute.php" server="174.127.89.46" local="130620525036447637" remote="130613596200000000" Dst="0" />
+<file name="Composite.php" server="174.127.89.46" local="130620525038397749" remote="130613596200000000" Dst="0" />
+<file name="Count.php" server="174.127.89.46" local="130620525056558787" remote="130613596200000000" Dst="0" />
+<file name="Exception.php" server="174.127.89.46" local="130620525056568788" remote="130613596200000000" Dst="0" />
+<file name="ExceptionCode.php" server="174.127.89.46" local="130620525058518900" remote="130613596200000000" Dst="0" />
+<file name="ExceptionMessage.php" server="174.127.89.46" local="130620525074969840" remote="130613596200000000" Dst="0" />
+<file name="ExceptionMessageRegExp.php" server="174.127.89.46" local="130620525076969955" remote="130613596200000000" Dst="0" />
+<file name="FileExists.php" server="174.127.89.46" local="130620525078920066" remote="130613596200000000" Dst="0" />
+<file name="GreaterThan.php" server="174.127.89.46" local="130620525093030873" remote="130613596200000000" Dst="0" />
+<file name="IsAnything.php" server="174.127.89.46" local="130620525097031102" remote="130613596200000000" Dst="0" />
+<file name="IsEmpty.php" server="174.127.89.46" local="130620525097031102" remote="130613596200000000" Dst="0" />
+<file name="IsEqual.php" server="174.127.89.46" local="130620525115362151" remote="130613596200000000" Dst="0" />
+<file name="IsFalse.php" server="174.127.89.46" local="130620525117372266" remote="130613596200000000" Dst="0" />
+<file name="IsIdentical.php" server="174.127.89.46" local="130620525119352379" remote="130613596200000000" Dst="0" />
+<file name="IsNull.php" server="174.127.89.46" local="130620525133643196" remote="130613596200000000" Dst="0" />
+<file name="IsInstanceOf.php" server="174.127.89.46" local="130620525137623424" remote="130613596200000000" Dst="0" />
+<file name="IsJson.php" server="174.127.89.46" local="130620525137623424" remote="130613596200000000" Dst="0" />
+<file name="IsTrue.php" server="174.127.89.46" local="130620525153934357" remote="130613596200000000" Dst="0" />
+<file name="IsType.php" server="174.127.89.46" local="130620525157844581" remote="130613596200000000" Dst="0" />
+<file name="JsonMatches.php" server="174.127.89.46" local="130620525173995504" remote="130613596200000000" Dst="0" />
+<file name="LessThan.php" server="174.127.89.46" local="130620525175945616" remote="130613596200000000" Dst="0" />
+<file name="Not.php" server="174.127.89.46" local="130620525177985733" remote="130613596200000000" Dst="0" />
+<file name="ObjectHasAttribute.php" server="174.127.89.46" local="130620525192136542" remote="130613596200000000" Dst="0" />
+<file name="Or.php" server="174.127.89.46" local="130620525196076767" remote="130613596200000000" Dst="0" />
+<file name="PCREMatch.php" server="174.127.89.46" local="130620525196076767" remote="130613596200000000" Dst="0" />
+<file name="SameSize.php" server="174.127.89.46" local="130620525212257693" remote="130613596200000000" Dst="0" />
+<file name="StringContains.php" server="174.127.89.46" local="130620525216257922" remote="130613596200000000" Dst="0" />
+<file name="StringEndsWith.php" server="174.127.89.46" local="130620525216257922" remote="130613596200000000" Dst="0" />
+<file name="StringMatches.php" server="174.127.89.46" local="130620525234448962" remote="130613596200000000" Dst="0" />
+<file name="StringStartsWith.php" server="174.127.89.46" local="130620525234448962" remote="130613596200000000" Dst="0" />
+<file name="TraversableContains.php" server="174.127.89.46" local="130620525236399074" remote="130613596200000000" Dst="0" />
+<file name="TraversableContainsOnly.php" server="174.127.89.46" local="130620525254860130" remote="130613596200000000" Dst="0" />
+<file name="Xor.php" server="174.127.89.46" local="130620525254860130" remote="130613596200000000" Dst="0" />
+</dwsync>

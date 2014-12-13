@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractResourceIteratorFactory.php" server="174.127.89.46" local="130620521260061640" remote="130613596200000000" Dst="0" />
+<file name="CompositeResourceIteratorFactory.php" server="174.127.89.46" local="130620521264081870" remote="130613596200000000" Dst="0" />
+<file name="MapResourceIteratorFactory.php" server="174.127.89.46" local="130620521264081870" remote="130613596200000000" Dst="0" />
+<file name="Model.php" server="174.127.89.46" local="130620521280312798" remote="130613596200000000" Dst="0" />
+<file name="ResourceIterator.php" server="174.127.89.46" local="130620521284243023" remote="130613596200000000" Dst="0" />
+<file name="ResourceIteratorApplyBatched.php" server="174.127.89.46" local="130620521284243023" remote="130613596200000000" Dst="0" />
+<file name="ResourceIteratorClassFactory.php" server="174.127.89.46" local="130620521300423949" remote="130613596200000000" Dst="0" />
+<file name="ResourceIteratorFactoryInterface.php" server="174.127.89.46" local="130620521304364174" remote="130613596200000000" Dst="0" />
+<file name="ResourceIteratorInterface.php" server="174.127.89.46" local="130620521304364174" remote="130613596200000000" Dst="0" />
+</dwsync>

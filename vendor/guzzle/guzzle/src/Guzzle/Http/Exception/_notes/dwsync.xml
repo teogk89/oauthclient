@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="174.127.89.46" local="130620519902724005" remote="130613596200000000" Dst="0" />
+<file name="ClientErrorResponseException.php" server="174.127.89.46" local="130620519921075055" remote="130613596200000000" Dst="0" />
+<file name="CurlException.php" server="174.127.89.46" local="130620519921075055" remote="130613596200000000" Dst="0" />
+<file name="CouldNotRewindStreamException.php" server="174.127.89.46" local="130620519923085170" remote="130613596200000000" Dst="0" />
+<file name="HttpException.php" server="174.127.89.46" local="130620519939346100" remote="130613596200000000" Dst="0" />
+<file name="MultiTransferException.php" server="174.127.89.46" local="130620519943296326" remote="130613596200000000" Dst="0" />
+<file name="RequestException.php" server="174.127.89.46" local="130620519943296326" remote="130613596200000000" Dst="0" />
+<file name="ServerErrorResponseException.php" server="174.127.89.46" local="130620519959427248" remote="130613596200000000" Dst="0" />
+<file name="TooManyRedirectsException.php" server="174.127.89.46" local="130620519963407476" remote="130613596200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FunctionDeclarationSniff.php" server="174.127.89.46" local="130620531407082017" remote="130613596200000000" Dst="0" />
+<file name="FunctionDeclarationArgumentSpacingSniff.php" server="174.127.89.46" local="130620531411062244" remote="130613596200000000" Dst="0" />
+<file name="FunctionDuplicateArgumentSniff.php" server="174.127.89.46" local="130620531411072245" remote="130613596200000000" Dst="0" />
+<file name="GlobalFunctionSniff.php" server="174.127.89.46" local="130620531429223283" remote="130613596200000000" Dst="0" />
+<file name="LowercaseFunctionKeywordsSniff.php" server="174.127.89.46" local="130620531429223283" remote="130613596200000000" Dst="0" />
+<file name="MultiLineFunctionDeclarationSniff.php" server="174.127.89.46" local="130620531431213397" remote="130613596200000000" Dst="0" />
+</dwsync>

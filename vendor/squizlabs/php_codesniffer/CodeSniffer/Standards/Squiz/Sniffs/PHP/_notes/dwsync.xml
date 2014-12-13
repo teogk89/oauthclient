@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommentedOutCodeSniff.php" server="174.127.89.46" local="130620531508547820" remote="130613596200000000" Dst="0" />
+<file name="DisallowBooleanStatementSniff.php" server="174.127.89.46" local="130620531508547820" remote="130613596200000000" Dst="0" />
+<file name="DisallowComparisonAssignmentSniff.php" server="174.127.89.46" local="130620531510517933" remote="130613596200000000" Dst="0" />
+<file name="DisallowInlineIfSniff.php" server="174.127.89.46" local="130620531526638855" remote="130613596200000000" Dst="0" />
+<file name="DisallowMultipleAssignmentsSniff.php" server="174.127.89.46" local="130620531530539078" remote="130613596200000000" Dst="0" />
+<file name="DisallowObEndFlushSniff.php" server="174.127.89.46" local="130620531530539078" remote="130613596200000000" Dst="0" />
+<file name="DisallowSizeFunctionsInLoopsSniff.php" server="174.127.89.46" local="130620531546730004" remote="130613596200000000" Dst="0" />
+<file name="DiscouragedFunctionsSniff.php" server="174.127.89.46" local="130620531548750120" remote="130613596200000000" Dst="0" />
+<file name="EmbeddedPhpSniff.php" server="174.127.89.46" local="130620531550790236" remote="130613596200000000" Dst="0" />
+<file name="EvalSniff.php" server="174.127.89.46" local="130620531564951046" remote="130613596200000000" Dst="0" />
+<file name="ForbiddenFunctionsSniff.php" server="174.127.89.46" local="130620531568971276" remote="130613596200000000" Dst="0" />
+<file name="GlobalKeywordSniff.php" server="174.127.89.46" local="130620531568971276" remote="130613596200000000" Dst="0" />
+<file name="HeredocSniff.php" server="174.127.89.46" local="130620531585282209" remote="130613596200000000" Dst="0" />
+<file name="InnerFunctionsSniff.php" server="174.127.89.46" local="130620531589332441" remote="130613596200000000" Dst="0" />
+<file name="LowercasePHPFunctionsSniff.php" server="174.127.89.46" local="130620531589332441" remote="130613596200000000" Dst="0" />
+<file name="NonExecutableCodeSniff.php" server="174.127.89.46" local="130620531607723493" remote="130613596200000000" Dst="0" />
+</dwsync>

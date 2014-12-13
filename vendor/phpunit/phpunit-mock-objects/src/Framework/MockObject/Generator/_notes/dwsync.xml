@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="mocked_class.tpl.dist" server="174.127.89.46" local="130620527964745126" remote="130613596200000000" Dst="0" />
+<file name="mocked_clone.tpl.dist" server="174.127.89.46" local="130620527989056517" remote="130613596200000000" Dst="0" />
+<file name="mocked_method.tpl.dist" server="174.127.89.46" local="130620527989056517" remote="130613596200000000" Dst="0" />
+<file name="mocked_class_method.tpl.dist" server="174.127.89.46" local="130620527991006628" remote="130613596200000000" Dst="0" />
+<file name="proxied_method.tpl.dist" server="174.127.89.46" local="130620528005427453" remote="130613596200000000" Dst="0" />
+<file name="trait_class.tpl.dist" server="174.127.89.46" local="130620528007377565" remote="130613596200000000" Dst="0" />
+<file name="mocked_static_method.tpl.dist" server="174.127.89.46" local="130620528009387680" remote="130613596200000000" Dst="0" />
+<file name="unmocked_clone.tpl.dist" server="174.127.89.46" local="130620528027338706" remote="130613596200000000" Dst="0" />
+<file name="wsdl_class.tpl.dist" server="174.127.89.46" local="130620528031358936" remote="130613596200000000" Dst="0" />
+<file name="wsdl_method.tpl.dist" server="174.127.89.46" local="130620528031358936" remote="130613596200000000" Dst="0" />
+</dwsync>

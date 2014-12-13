@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BlockCommentSniff.php" server="174.127.89.46" local="130620531255343338" remote="130613596200000000" Dst="0" />
+<file name="ClassCommentSniff.php" server="174.127.89.46" local="130620531257323451" remote="130613596200000000" Dst="0" />
+<file name="ClosingDeclarationCommentSniff.php" server="174.127.89.46" local="130620531271654271" remote="130613596200000000" Dst="0" />
+<file name="DocCommentAlignmentSniff.php" server="174.127.89.46" local="130620531275584495" remote="130613596200000000" Dst="0" />
+<file name="EmptyCatchCommentSniff.php" server="174.127.89.46" local="130620531275584495" remote="130613596200000000" Dst="0" />
+<file name="FileCommentSniff.php" server="174.127.89.46" local="130620531291855426" remote="130613596200000000" Dst="0" />
+<file name="FunctionCommentThrowTagSniff.php" server="174.127.89.46" local="130620531293925544" remote="130613596200000000" Dst="0" />
+<file name="FunctionCommentSniff.php" server="174.127.89.46" local="130620531299945889" remote="130613596200000000" Dst="0" />
+<file name="InlineCommentSniff.php" server="174.127.89.46" local="130620531310086469" remote="130613596200000000" Dst="0" />
+<file name="LongConditionClosingCommentSniff.php" server="174.127.89.46" local="130620531314166702" remote="130613596200000000" Dst="0" />
+<file name="PostStatementCommentSniff.php" server="174.127.89.46" local="130620531314166702" remote="130613596200000000" Dst="0" />
+<file name="VariableCommentSniff.php" server="174.127.89.46" local="130620531332287739" remote="130613596200000000" Dst="0" />
+</dwsync>

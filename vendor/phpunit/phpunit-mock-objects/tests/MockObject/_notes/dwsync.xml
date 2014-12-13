@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.phpt" server="174.127.89.46" local="130620528319605423" remote="130613596200000000" Dst="0" />
+<file name="class_call_parent_clone.phpt" server="174.127.89.46" local="130620528319615424" remote="130613596200000000" Dst="0" />
+<file name="class_call_parent_constructor.phpt" server="174.127.89.46" local="130620528337876468" remote="130613596200000000" Dst="0" />
+<file name="class_dont_call_parent_clone.phpt" server="174.127.89.46" local="130620528341826694" remote="130613596200000000" Dst="0" />
+<file name="class_dont_call_parent_constructor.phpt" server="174.127.89.46" local="130620528341826694" remote="130613596200000000" Dst="0" />
+<file name="class_implementing_interface_call_parent_constructor.phpt" server="174.127.89.46" local="130620528358077623" remote="130613596200000000" Dst="0" />
+<file name="class_implementing_interface_dont_call_parent_constructor.phpt" server="174.127.89.46" local="130620528362087853" remote="130613596200000000" Dst="0" />
+<file name="class_partial.phpt" server="174.127.89.46" local="130620528362097853" remote="130613596200000000" Dst="0" />
+<file name="class_with_method_named_method.phpt" server="174.127.89.46" local="130620528378278779" remote="130613596200000000" Dst="0" />
+<file name="class_with_method_with_variadic_arguments.phpt" server="174.127.89.46" local="130620528382319010" remote="130613596200000000" Dst="0" />
+<file name="interface.phpt" server="174.127.89.46" local="130620528382319010" remote="130613596200000000" Dst="0" />
+<file name="invocation_object_clone_object.phpt" server="174.127.89.46" local="130620528398629943" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class.phpt" server="174.127.89.46" local="130620528402620171" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_call_parent_clone.phpt" server="174.127.89.46" local="130620528402620171" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_call_parent_constructor.phpt" server="174.127.89.46" local="130620528420681204" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_dont_call_parent_clone.phpt" server="174.127.89.46" local="130620528424761438" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_dont_call_parent_constructor.phpt" server="174.127.89.46" local="130620528424761438" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_implementing_interface_call_parent_constructor.phpt" server="174.127.89.46" local="130620528445992652" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_implementing_interface_dont_call_parent_constructor.phpt" server="174.127.89.46" local="130620528449972880" remote="130613596200000000" Dst="0" />
+<file name="namespaced_class_partial.phpt" server="174.127.89.46" local="130620528449982880" remote="130613596200000000" Dst="0" />
+<file name="namespaced_interface.phpt" server="174.127.89.46" local="130620528466143805" remote="130613596200000000" Dst="0" />
+<file name="nonexistent_class.phpt" server="174.127.89.46" local="130620528470104031" remote="130613596200000000" Dst="0" />
+<file name="nonexistent_class_with_namespace.phpt" server="174.127.89.46" local="130620528470104031" remote="130613596200000000" Dst="0" />
+<file name="nonexistent_class_with_namespace_starting_with_separator.phpt" server="174.127.89.46" local="130620528486394963" remote="130613596200000000" Dst="0" />
+<file name="proxy.phpt" server="174.127.89.46" local="130620528490405192" remote="130613596200000000" Dst="0" />
+<file name="wsdl_class.phpt" server="174.127.89.46" local="130620528490405192" remote="130613596200000000" Dst="0" />
+<file name="wsdl_class_namespace.phpt" server="174.127.89.46" local="130620528508556230" remote="130613596200000000" Dst="0" />
+<file name="wsdl_class_partial.phpt" server="174.127.89.46" local="130620528510516342" remote="130613596200000000" Dst="0" />
+</dwsync>

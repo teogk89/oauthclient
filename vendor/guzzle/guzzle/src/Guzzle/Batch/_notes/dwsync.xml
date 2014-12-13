@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBatchDecorator.php" server="174.127.89.46" local="130620519561084464" remote="130613596200000000" Dst="0" />
+<file name="Batch.php" server="174.127.89.46" local="130620519563044576" remote="130613596200000000" Dst="0" />
+<file name="BatchBuilder.php" server="174.127.89.46" local="130620519565044691" remote="130613596200000000" Dst="0" />
+<file name="BatchClosureDivisor.php" server="174.127.89.46" local="130620519581175613" remote="130613596200000000" Dst="0" />
+<file name="BatchCommandTransfer.php" server="174.127.89.46" local="130620519581185614" remote="130613596200000000" Dst="0" />
+<file name="BatchClosureTransfer.php" server="174.127.89.46" local="130620519583175728" remote="130613596200000000" Dst="0" />
+<file name="BatchDivisorInterface.php" server="174.127.89.46" local="130620519599376654" remote="130613596200000000" Dst="0" />
+<file name="BatchInterface.php" server="174.127.89.46" local="130620519603436887" remote="130613596200000000" Dst="0" />
+<file name="BatchRequestTransfer.php" server="174.127.89.46" local="130620519603436887" remote="130613596200000000" Dst="0" />
+<file name="BatchSizeDivisor.php" server="174.127.89.46" local="130620519619927830" remote="130613596200000000" Dst="0" />
+<file name="BatchTransferInterface.php" server="174.127.89.46" local="130620519623888056" remote="130613596200000000" Dst="0" />
+<file name="ExceptionBufferingBatch.php" server="174.127.89.46" local="130620519642079097" remote="130613596200000000" Dst="0" />
+<file name="HistoryBatch.php" server="174.127.89.46" local="130620519642089097" remote="130613596200000000" Dst="0" />
+<file name="FlushingBatch.php" server="174.127.89.46" local="130620519644059210" remote="130613596200000000" Dst="0" />
+<file name="NotifyingBatch.php" server="174.127.89.46" local="130620519662270252" remote="130613596200000000" Dst="0" />
+<file name="composer.json" server="174.127.89.46" local="130620519666270481" remote="130613596200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCommand.php" server="174.127.89.46" local="130620520893550677" remote="130613596200000000" Dst="0" />
+<file name="ClosureCommand.php" server="174.127.89.46" local="130620520905621367" remote="130613596200000000" Dst="0" />
+<file name="CommandInterface.php" server="174.127.89.46" local="130620520907631482" remote="130613596200000000" Dst="0" />
+<file name="CreateResponseClassEvent.php" server="174.127.89.46" local="130620520917712059" remote="130613596200000000" Dst="0" />
+<file name="DefaultRequestSerializer.php" server="174.127.89.46" local="130620520923852410" remote="130613596200000000" Dst="0" />
+<file name="DefaultResponseParser.php" server="174.127.89.46" local="130620520929972760" remote="130613596200000000" Dst="0" />
+<file name="OperationCommand.php" server="174.127.89.46" local="130620521103852706" remote="130613596200000000" Dst="0" />
+<file name="OperationResponseParser.php" server="174.127.89.46" local="130620521105842819" remote="130613596200000000" Dst="0" />
+<file name="RequestSerializerInterface.php" server="174.127.89.46" local="130620521122083748" remote="130613596200000000" Dst="0" />
+<file name="ResponseClassInterface.php" server="174.127.89.46" local="130620521126083977" remote="130613596200000000" Dst="0" />
+<file name="ResponseParserInterface.php" server="174.127.89.46" local="130620521126083977" remote="130613596200000000" Dst="0" />
+</dwsync>
