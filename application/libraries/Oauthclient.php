@@ -10,20 +10,11 @@ class Oauthclient{
 		
 		$CI =& get_instance();
 		$CI->config->load("oauthclient");
-		switch ($input){
-		case "Runkeeper":
-		
-		
-		$config = $CI->config->item("runkeeper");
-		$provider = new League\OAuth2\Client\Provider\Runkeeper($config);
-		break;
-		
-		case "Mapmyapi":
-		$config = $CI->config->item('mapmyapi');
-		$provider = new League\OAuth2\Client\Provider\Mapmyapi($config);
-		break;	
-		}
+		$class = 'League\\OAuth2\\Client\\Provider\\'.$input;
+		$config = $CI->config->item($input);
+		$provider = new $class($config);
 		return $provider;
+		
 		
 		
 		
