@@ -103,6 +103,23 @@
             </code>
             </td>
         </tr>
+        <tr>
+        	<td></td>
+            <td>
+             <?php
+			
+			foreach ($workout as $v=>$n){
+			
+			echo "<br/>";
+			echo $v."-";
+			print_r($n);
+				
+			}
+			
+            ?>
+            
+            </td>
+        </tr>
         </table>
 		
         

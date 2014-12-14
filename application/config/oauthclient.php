@@ -9,4 +9,4 @@ $config['runkeeper']['redirectUri'] = "http://duykhanh.net/oauthClient/index.php
 
 $config['mapmyapi']['clientId'] = "zjpskrkak6t3xc3682j5tarkknjef74m";
 $config['mapmyapi']['clientSecret'] = "5Q6nYDscFfcyuuRU28e8FbapKBGzNfxDsQEbTw22fjv";
-$config['mapmyapi']['redirectUri'] = "http://duykhanh.net/oauthClient/index.php/mapmyapi";
+$config['mapmyapi']['redirectUri'] = "http://localhost2:82/oauthClient/index.php/mapmyapi";

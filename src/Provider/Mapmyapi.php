@@ -178,7 +178,7 @@ class Mapmyapi extends AbstractProvider{
 	
 	//Workout Resources
 	
-	public function getWorkouts(\League\OAuth2\Client\Token\AccessToken $token,$id,$param){
+	public function getWorkouts(\League\OAuth2\Client\Token\AccessToken $token,$param){
 		$url = $this->rootUrl."/v7.0/workout/?".$this->httpBuildQuery($param, '', '&');
 		$response = json_decode($this->fetchDetails($token,$url),true);
 		return $response;

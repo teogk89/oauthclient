@@ -30,5 +30,12 @@ class Oauthclient{
 		
 	}
 	
+	public static function token($input){
+		
+		include_once("./vendor/autoload.php");
+		$token = new League\OAuth2\Client\Token\AccessToken($input);
+		return $token; 	
+		
+	}
 	
 }
